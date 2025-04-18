@@ -5,12 +5,12 @@
 This project is designed to build a scalable, cloud-based data engineering pipeline that ingests, processes, stores, and analyzes YouTube video data. It focuses on both structured and semi-structured datasets, particularly around video categories and trending metrics. The ultimate goal is to uncover valuable insights through interactive dashboards and visual reporting tools.
 <br><br>
 <b>Project Objectives</b><br>
-1. Data Ingestion : Design and implement a reliable mechanism to ingest data from various sources.<br>
-2. ETL (Extract, Transform, Load) : Transform raw data into a structured and clean format ready for analysis.<br>
-3. Data Lake : Use a centralized storage repository to consolidate data from different sources for ease of access and analysis.<br>
-4. Scalability : Ensure the system architecture is capable of scaling as data volume and complexity grow.<br>
-5. Cloud Infrastructure : Leverage AWS cloud services to manage, process, and store data efficiently, enabling serverless, secure, and highly available systems.<br>
-6. Reporting & Visualization : Build insightful, interactive dashboards to answer key business and analytical questions.<br>
+1. <b>Data Ingestion</b> : Design and implement a reliable mechanism to ingest data from various sources.<br>
+2. <b>ETL (Extract, Transform, Load)</b> : Transform raw data into a structured and clean format ready for analysis.<br>
+3. <b>Data Lake</b> : Use a centralized storage repository to consolidate data from different sources for ease of access and analysis.<br>
+4. <b>Scalability</b> : Ensure the system architecture is capable of scaling as data volume and complexity grow.<br>
+5. <b>Cloud Infrastructure</b> : Leverage AWS cloud services to manage, process, and store data efficiently, enabling serverless, secure, and highly available systems.<br>
+6. <b>Reporting & Visualization</b> : Build insightful, interactive dashboards to answer key business and analytical questions.<br>
 
 <br><br>
 <b>Technologies & AWS Services Used</b><br><br>
